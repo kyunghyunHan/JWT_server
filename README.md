@@ -1,3 +1,5 @@
+
+- go get github.com/gin-gonic
 # JWT_server
 - 사용자가 id와 password를 입력하여 로그인을 시도
 - 서버는 요청을 확인하고 secret key를 통해 Access token을 발급
